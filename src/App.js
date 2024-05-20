@@ -16,7 +16,7 @@ function App() {
   const [isAuth, setIsAuth] = useState(localStorage.getItem("isAuth"));
 
   return (
-    <Router>
+    <Router basename="/blog-app">
       <Navbar isAuth={isAuth} />
       <Routes>
         {/* ルーティング：以下の記述で"/"を叩くとHomeコンポーネントを出力することができる。
