@@ -7,6 +7,7 @@ import Login from "./components/Login";
 import Logout from "./components/Logout";
 import Navbar from "./components/Navbar";
 import { useState } from "react";
+import NotFound from "./components/NotFound";
 
 function App() {
   // ユーザーがログインしたかどうかを管理する状態変数。（プロップスでlogin.jsに渡す）

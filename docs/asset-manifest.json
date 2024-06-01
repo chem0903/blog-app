@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blog-app/static/css/main.d10dad05.css",
-    "main.js": "/blog-app/static/js/main.117cf646.js",
-    "index.html": "/blog-app/index.html",
-    "main.d10dad05.css.map": "/blog-app/static/css/main.d10dad05.css.map",
-    "main.117cf646.js.map": "/blog-app/static/js/main.117cf646.js.map"
+    "main.css": "/u-blog-wiht-firebase/static/css/main.d10dad05.css",
+    "main.js": "/u-blog-wiht-firebase/static/js/main.fcaa3aaf.js",
+    "index.html": "/u-blog-wiht-firebase/index.html",
+    "main.d10dad05.css.map": "/u-blog-wiht-firebase/static/css/main.d10dad05.css.map",
+    "main.fcaa3aaf.js.map": "/u-blog-wiht-firebase/static/js/main.fcaa3aaf.js.map"
   },
   "entrypoints": [
     "static/css/main.d10dad05.css",
-    "static/js/main.117cf646.js"
+    "static/js/main.fcaa3aaf.js"
   ]
 }

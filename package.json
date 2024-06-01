@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://chem0903.github.io/blog-app",
+  "homepage": "https://chem0903.github.io/u-blog-wiht-firebase",
   "eslintConfig": {
     "extends": [
       "react-app",
