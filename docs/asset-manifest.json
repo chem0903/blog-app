@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/u-blog-wiht-react-firebase/static/css/main.d10dad05.css",
-    "main.js": "/u-blog-wiht-react-firebase/static/js/main.38200428.js",
-    "index.html": "/u-blog-wiht-react-firebase/index.html",
-    "main.d10dad05.css.map": "/u-blog-wiht-react-firebase/static/css/main.d10dad05.css.map",
-    "main.38200428.js.map": "/u-blog-wiht-react-firebase/static/js/main.38200428.js.map"
+    "main.css": "/u-blog-with-react-firebase/static/css/main.d10dad05.css",
+    "main.js": "/u-blog-with-react-firebase/static/js/main.eccc1228.js",
+    "index.html": "/u-blog-with-react-firebase/index.html",
+    "main.d10dad05.css.map": "/u-blog-with-react-firebase/static/css/main.d10dad05.css.map",
+    "main.eccc1228.js.map": "/u-blog-with-react-firebase/static/js/main.eccc1228.js.map"
   },
   "entrypoints": [
     "static/css/main.d10dad05.css",
-    "static/js/main.38200428.js"
+    "static/js/main.eccc1228.js"
   ]
 }
